@@ -1,4 +1,4 @@
-const TransactionTable = () => {
+const DepositeTable = () => {
   return (
     <>
       <div className="table-container">
@@ -83,4 +83,4 @@ const TransactionTable = () => {
     </>
   );
 };
-export default TransactionTable;
+export default DepositeTable;

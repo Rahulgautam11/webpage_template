@@ -1,7 +1,7 @@
 import './App.css';
 import SideNav from './components/Side.Nav';
 import TopBar from './components/TopBar';
-import TransactionTable from './components/TransactionTable';
+import DepositeTable from './components/DepositeTable';
 
 
 function App() {
@@ -9,7 +9,7 @@ function App() {
     <div>
       <SideNav />
       <TopBar/>
-      <TransactionTable/>
+      <DepositeTable/>
     </div>
   );
 }

@@ -4,7 +4,7 @@ const SideNav = () => {
     <div className="side-nav">
       <div className="dp">
         {/* <img src={"./home.png"} alt="profile-pic" /> */}
-        <h5>Hemant Sharma</h5>
+        <h5>Rahul Gautam</h5>
       </div>
 
       <div className="menu-list">

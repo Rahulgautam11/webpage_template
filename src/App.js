@@ -7,7 +7,7 @@ import DepositeTable from './components/DepositeTable';
 function App() {
   return (
     <div>
-//       <LeftNav />
+      <LeftNav />
       <TopBar/>
       <DepositeTable/>
     </div>

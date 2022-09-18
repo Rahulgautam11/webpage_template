@@ -1,5 +1,5 @@
 
-const SideNav = () => {
+const LeftNav = () => {
   return (
     <div className="side-nav">
       <div className="dp">
@@ -21,4 +21,4 @@ const SideNav = () => {
     </div>
   );
 };
-export default SideNav;
+export default LeftNav;

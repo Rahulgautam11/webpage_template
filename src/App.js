@@ -1,7 +1,7 @@
 import './App.css';
 import SideNav from './components/Side.Nav';
 import TopBar from './components/TopBar';
-import DepositeTable from './components/epositeTable';
+// import DepositeTable from './components/epositeTable';
 
 
 function App() {

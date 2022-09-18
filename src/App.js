@@ -1,5 +1,5 @@
 import './App.css';
-import SideNav from './components/Side.Nav';
+import LeftNav from './components/LeftNav';
 import TopBar from './components/TopBar';
 import DepositeTable from './components/DepositeTable';
 
@@ -7,7 +7,7 @@ import DepositeTable from './components/DepositeTable';
 function App() {
   return (
     <div>
-      <SideNav />
+      <LeftNav />
       <TopBar/>
       <DepositeTable/>
     </div>
